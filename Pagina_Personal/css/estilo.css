@@ -1,0 +1,6 @@
+.enlaces a,
+section#sec5 > div a {
+    display: block;
+    margin: 4px;
+    text-decoration: none;
+}
