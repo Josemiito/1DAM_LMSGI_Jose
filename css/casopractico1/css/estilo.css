@@ -1,0 +1,26 @@
+h1{
+    border: solid 3px blue;
+}
+#h21{
+    background-color: grey;
+    color: white;
+}
+ul li{
+    color: red;
+}
+.verde{
+    color: green;
+}
+#h22{
+    background-color: black;
+    color: white;
+}
+#h23{
+    background-color: aqua;
+}
+#negro li{
+    color: black;
+}
+body{
+    width: 400px;
+}

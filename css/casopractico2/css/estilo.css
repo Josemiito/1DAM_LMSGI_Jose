@@ -1,0 +1,51 @@
+*{
+    width: 500px;
+}
+
+h1{
+    background-color: black;
+    color: white;
+}
+h2{
+    background-color: orange;
+}
+#h2-1{
+    color: blue;
+}
+#h2-2{
+    color: green;
+}
+#h2-3{
+    color: yellow;
+}
+#h2-4{
+    color: aqua;
+}
+#h2-5{
+    color: white;
+}
+#h2-6{
+    color: yellow;
+}
+div{
+    background-color: grey;
+    border: solid 3px black;
+}
+#div1 i{
+    color: blue;
+}
+#div2 i{
+    color: green;
+}
+#div3 i{
+    color: yellow;
+}
+#div4 i{
+    color: aqua;
+}
+#div5 i{
+    color: white;
+}
+#div6 i{
+    color: yellow;
+}
